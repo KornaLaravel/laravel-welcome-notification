@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-welcome-mail` will be documented in this file
 
+## 2.5.0 - 2026-02-22
+
+Add Laravel 13.x support
+
 ## 2.4.4 - 2025-02-26
 
 ### What's Changed
